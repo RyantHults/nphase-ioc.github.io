@@ -2833,6 +2833,10 @@
 	header.major .date:before, header.major .date:after {
 		border-top-color: #eeeeee;
 	}
+	header.minor {
+		margin: 0 0 4rem 0;
+		text-align: center;
+	}
 
 /* Table */
 
